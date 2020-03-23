@@ -1,13 +1,13 @@
 {
   "name": "wfrp-gwmwg",
-  "title": "WFRP - Gerwin Waffenhalter’s Magnificent Weapons Gallery.",
+  "title": "WFRP - Gerwin Waffenhalter’s Magnificent Weapons Gallery",
   "description": "Adds new weapons and weapon traits from the Ratter Vol. 1 Issue 2. Requires the WFRP 4e system.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "minimumCoreVersion": "0.5.0",
   "author": "Michael Sebelski [DasSauerkraut#3215], WFRP 4e System by Moo Man",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/DasSauerkraut/wfrp-gwmwg",
+  "manifest": "https://raw.githubusercontent.com/DasSauerkraut/wfrp-gwmwg/master/module.json",
+  "download": "https://github.com/DasSauerkraut/wfrp-gwmwg/raw/master/package/wfrp-gwmwg-v1.0.0.zip",
   "scripts": [ "wfrp-gwmwg.js"],
   "styles": [ "./css/gwmwg-style.css" ],
   "packs": [
