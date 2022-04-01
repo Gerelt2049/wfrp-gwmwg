@@ -1,0 +1,2 @@
+WFRP4E.weaponQualities["slashing"] = "Slashing";
+WFRP4E.qualityDescriptions["slashing"] = "A  Slashing  weapon  inflicts  one  Bleeding  Condition  on successful hits on locations protected by no more than 1 Armour Point."
